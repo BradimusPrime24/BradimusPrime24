@@ -1,16 +1,32 @@
-## Hi there 👋
+```C++
+class info
+{
+  name = "Bradford Ward";
+  age = 21;
+  location = "Ottawa, Ontario";
+}
 
-<!--
-**BradimusPrime24/BradimusPrime24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+class education
+{
+  institution = "Carleton University";
+  degree = "Bachelor of Science";
+  major = "Computer Science";
+  minor = "History";
+}
 
-Here are some ideas to get you started:
+class background
+{
+  internship = "ESDC - Junior Project Coordinator";
+  internship = "ESDC - Junior Analyst";
+}
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+class skills
+{
+  tools = ["GitHub", "VS Code", "Deno", "IntelliJ", "Webots", "QtCreator", "VirtualBox", "Power BI", "SharePoint"];
+  languages = ["Java", "C/C++", "SQL", "JavaScript", "Python", "HTML/CSS"];
+}
+
+interests = ["Cybersecurity", "Data Analytics", "UI/UX", "Technical Writing"];
+hobbies = ["Transformers", "Hockey (Go Leafs Go!)", "Comic Books", "Video Games"]
+
+```
