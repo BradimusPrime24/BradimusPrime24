@@ -1,3 +1,20 @@
+<p align="center">
+<a href="bradfordward@cmail.carleton.ca">
+  <img height="50" src="https://github.com/user-attachments/assets/f6844dbb-617d-45d3-a358-24b126d91e40" />
+</a>
+<a href="https://www.linkedin.com/in/bradford-ward-195564261/">
+  <img height="50" src="https://github.com/user-attachments/assets/927c98c4-715b-43a9-8a35-b0e4182fc21f" />
+</a>
+<a href="https://www.facebook.com/MECHADOMINUS2004/">
+  <img height="50" src="https://github.com/user-attachments/assets/d157ecec-d8cb-4dd1-86aa-a3cd9d673c7d" />
+</a>
+<a href="https://www.instagram.com/bradfordward24/">
+  <img height="50" src="https://github.com/user-attachments/assets/1e16fdb9-a7da-4bc5-91a9-82e86b7b9552" />
+</a>
+</p>
+
+
+
 <h2> 🤖&nbsp;Get to know me!</h2>
 
 ```C++
