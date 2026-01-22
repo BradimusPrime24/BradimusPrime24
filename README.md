@@ -1,5 +1,5 @@
 <p align="center">
-<a href="bradfordward@cmail.carleton.ca">
+<a href="mailto:bradfordward@cmail.carleton.ca">
   <img height="50" src="https://github.com/user-attachments/assets/f6844dbb-617d-45d3-a358-24b126d91e40" />
 </a>
 <a href="https://www.linkedin.com/in/bradford-ward-195564261/">
