@@ -2,7 +2,7 @@
   <img height="200" src="https://media1.tenor.com/m/HOBXQ0s_cCoAAAAC/hi-there-bumblebee.gif">
 </p>
 
-<h2> 📱Get a hold of me!📧</h2>
+<h2> 📱Get a hold of me!</h2>
 
 <p align="center">
 <a href="mailto:bradfordward@cmail.carleton.ca">
@@ -24,7 +24,7 @@
 
 
 
-<h2> 🤖Get to know me!🏒</h2>
+<h2> 🏒Get to know me!</h2>
 
 ```C++
 class info
