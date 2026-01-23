@@ -1,6 +1,11 @@
+<h2> 📱&nbsp;Get a hold of me!</h2>
+
 <p align="center">
 <a href="mailto:bradfordward@cmail.carleton.ca">
   <img height="50" src="https://github.com/user-attachments/assets/f6844dbb-617d-45d3-a358-24b126d91e40" />
+</a>
+<a href="resume">
+  <img height="50" src="https://github.com/user-attachments/assets/f40adb80-ff9c-4249-9cc8-b8db4c9ed10d" />
 </a>
 <a href="https://www.linkedin.com/in/bradford-ward-195564261/">
   <img height="50" src="https://github.com/user-attachments/assets/927c98c4-715b-43a9-8a35-b0e4182fc21f" />
