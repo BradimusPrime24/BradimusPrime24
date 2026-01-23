@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://media1.tenor.com/m/HOBXQ0s_cCoAAAAC/hi-there-bumblebee.gif"/>
+</p>
+
 <h2> 📱&nbsp;Get a hold of me!</h2>
 
 <p align="center">
