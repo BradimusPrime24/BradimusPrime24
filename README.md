@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media1.tenor.com/m/HOBXQ0s_cCoAAAAC/hi-there-bumblebee.gif"/>
+  <img src="https://github.com/user-attachments/assets/ebef7d34-3866-420c-933e-bf8733a5b8c6"/>
 </p>
 
 <h2> 📱&nbsp;Get a hold of me!</h2>
