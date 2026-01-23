@@ -55,6 +55,6 @@ class skills
 }
 
 interests = ["Cybersecurity", "Data Analytics", "UI/UX", "Technical Writing"];
-hobbies = ["Transformers", "Hockey (Go Leafs Go!)", "Comic Books", "Video Games"]
+hobbies = ["Transformers", "Hockey (Go Leafs Go!)", "Comic Books", "Video Games"];
 
 ```
